@@ -5,7 +5,10 @@ public class ScannerDemo
 {
     public static void main(String args[])
     {
-        // create new Scanner object
+        // create an instance of Scanner class
+        // otherwise known as a Scanner object
+        // calling this object readIn
+        // object of type Scanner
         Scanner readIn = new Scanner(System.in);
         
         // prompt user then read in value
