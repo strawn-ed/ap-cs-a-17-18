@@ -67,7 +67,7 @@ public class Variables {
         System.out.println(1 + 2 + "Hello");
         // the output is 3Hello
 
-        System.out.println("Hello" + 1 + 2);
+        System.out.println("Hello" + (1 + 2));
         // the output is Hello12
 
         System.out.println(17 * 3);

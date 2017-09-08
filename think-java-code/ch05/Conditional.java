@@ -15,9 +15,12 @@ public class Conditional {
             System.out.println("x is positive");
         }
 
-        if (x % 2 == 0) {
+        if (x % 2 == 0)
+        {
             System.out.println("x is even");
-        } else {
+        }
+        else
+        {
             System.out.println("x is odd");
         }
 
