@@ -1,4 +1,4 @@
-public class MascotTester
+public class MascotRunner
 {
     public static void main(String args[])
     {
